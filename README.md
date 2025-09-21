@@ -55,7 +55,5 @@
   <br><br>
   <img src="https://klmhccurilugmhhbhpyd.supabase.co/storage/v1/object/public/challenge-proof/Untitled%20folder/Screenshot%202025-09-21%20at%2009.45.36.png" alt="앱 UI 스크린샷 4" width="600">
   <br><br>
-  <img src="https://klmhccurilugmhhbhpyd.supabase.co/storage/v1/object/public/challenge-proof/Untitled%20folder/Screenshot%202025-09-21%20at%2009.45.44.png" alt="앱 UI 스크린샷 5" width="600">
-  <br><br>
   <img src="https://klmhccurilugmhhbhpyd.supabase.co/storage/v1/object/public/challenge-proof/Untitled%20folder/Screenshot%202025-09-21%20at%2009.46.15.png" alt="앱 UI 스크린샷 6" width="600">
 </p>
