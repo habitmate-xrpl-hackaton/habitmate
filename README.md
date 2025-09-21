@@ -43,3 +43,19 @@
 * **기술적 가치**
     * **온체인 증명(On-chain Proof)**: 챌린지 성공 기록은 **XRPL 원장에 영구적으로 기록**되어 누구나 검증할 수 있는 증거가 됩니다.
     * **데이터 확장성**: 구조화된 Memo 데이터는 향후 사용자 활동 분석, 외부 서비스 연동을 통한 **디지털 자격증명(Credential) 등으로 활용**될 수 있는 기반을 마련합니다.
+
+## 📸 애플리케이션 UI 스크린샷
+
+<p align="center">
+  <img src="https://klmhccurilugmhhbhpyd.supabase.co/storage/v1/object/public/challenge-proof/Untitled%20folder/Screenshot%202025-09-21%20at%2009.44.06.png" alt="앱 UI 스크린샷 1" width="600">
+  <br><br>
+  <img src="https://klmhccurilugmhhbhpyd.supabase.co/storage/v1/object/public/challenge-proof/Untitled%20folder/Screenshot%202025-09-21%20at%2009.44.56.png" alt="앱 UI 스크린샷 2" width="600">
+  <br><br>
+  <img src="https://klmhccurilugmhhbhpyd.supabase.co/storage/v1/object/public/challenge-proof/Untitled%20folder/Screenshot%202025-09-21%20at%2009.45.09.png" alt="앱 UI 스크린샷 3" width="600">
+  <br><br>
+  <img src="https://klmhccurilugmhhbhpyd.supabase.co/storage/v1/object/public/challenge-proof/Untitled%20folder/Screenshot%202025-09-21%20at%2009.45.36.png" alt="앱 UI 스크린샷 4" width="600">
+  <br><br>
+  <img src="https://klmhccurilugmhhbhpyd.supabase.co/storage/v1/object/public/challenge-proof/Untitled%20folder/Screenshot%202025-09-21%20at%2009.45.44.png" alt="앱 UI 스크린샷 5" width="600">
+  <br><br>
+  <img src="https://klmhccurilugmhhbhpyd.supabase.co/storage/v1/object/public/challenge-proof/Untitled%20folder/Screenshot%202025-09-21%20at%2009.46.15.png" alt="앱 UI 스크린샷 6" width="600">
+</p>
