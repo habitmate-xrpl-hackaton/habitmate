@@ -1,3 +1,7 @@
+# 시연 영상:
+  ## https://youtu.be/axnqKjhl4eo
+
+
 # Phase 1: 챌린지 참여 - `EscrowCreate`를 통한 참가비의 안전한 예치
 
    * 사용자 시나리오:
